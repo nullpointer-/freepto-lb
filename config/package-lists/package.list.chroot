@@ -21,6 +21,7 @@ btrfs-tools
 htop
 ca-certificates
 dnsutils
+ntp
 
 # XFCE4
 task-laptop
@@ -65,11 +66,10 @@ reaver
 pyrit
 
 # Firefox:
-linuxmint-keyring
-firefox
+iceweasel
 
 # Mail and GPG
-thunderbird
+icedove
 seahorse
 signing-party
 
